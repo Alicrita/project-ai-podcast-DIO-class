@@ -8,8 +8,7 @@
 # IAs Regenerativas: A Revolução da Inteligência Artificial Adaptativa🎙️
 
 ## 📒 Descrição
-Este podcast de 5 minutos oferece um passeio rápido, mas profundo, pelo mundo das IAs Generativas e sua influência na tecnologia moderna.
-
+Descubra como as IAs regenerativas estão transformando a inteligência artificial com aprendizado contínuo, autoaperfeiçoamento e adaptação a novos contextos, revolucionando diversos setores com eficiência e sustentabilidade.
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
 - IA Generativa **[ElevenLabs](https://www.elevenlabs.io)** para clonagem e sintetização de voz;
