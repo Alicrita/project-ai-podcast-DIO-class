@@ -1,4 +1,4 @@
-# IAs Regenerativas: O Futuro da Inteligência Artificial que se Adapta e Evolui Continuamente 🎙️
+# IAs Regenerativas: A Revolução da Inteligência Artificial Adaptativa🎙️
 
 ## 📒 Descrição
 Este podcast de 5 minutos oferece um passeio rápido, mas profundo, pelo mundo das IAs Generativas e sua influência na tecnologia moderna.
