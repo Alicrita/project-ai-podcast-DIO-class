@@ -20,7 +20,7 @@ Descubra como as IAs regenerativas estão transformando a inteligência artifici
 ## 🚀 Resultados
 Conheça a revolução da inteligência artificial que aprende, se adapta e evolui continuamente. Com aprendizado contínuo, autoaperfeiçoamento e adaptação a novos contextos
 
-[LINK PARA O PODCAST AQUI]()
+[LINK PARA O PODCAST AQUI](https://github.com/Alicrita/project-ai-podcast-DIO-class/blob/main/output/Ia-Regenerativa.mp3)
 
 ## 💭 Reflexão
 O projeto evidenciou a versatilidade das IAs Generativas na criação de conteúdo auditivo, revolucionando a produção de mídia digital e explorando novas fronteiras criativas. Ao integrar inteligência artificial na geração de áudio, estamos não apenas aprimorando a qualidade e a eficiência da produção, mas também expandindo as possibilidades de inovação em diversos setores da mídia.
