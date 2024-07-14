@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="assets/Mage1.png"
+    src="assets/cover.webp"
     width="50%"  
   />
 </p>
