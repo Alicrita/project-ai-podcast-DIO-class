@@ -1,4 +1,4 @@
-# Podcast: Descobrindo IAs Generativas em 5 Minutos 🎙️
+# IAs Regenerativas: O Futuro da Inteligência Artificial que se Adapta e Evolui Continuamente 🎙️
 
 ## 📒 Descrição
 Este podcast de 5 minutos oferece um passeio rápido, mas profundo, pelo mundo das IAs Generativas e sua influência na tecnologia moderna.
