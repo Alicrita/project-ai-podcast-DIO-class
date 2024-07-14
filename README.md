@@ -1,3 +1,10 @@
+<p align="center">
+  <img 
+    src="assets/Mage1.png"
+    width="50%"  
+  />
+</p>
+
 # IAs Regenerativas: A Revolução da Inteligência Artificial Adaptativa🎙️
 
 ## 📒 Descrição
