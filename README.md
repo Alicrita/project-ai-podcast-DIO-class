@@ -18,7 +18,7 @@ Descubra como as IAs regenerativas estão transformando a inteligência artifici
 "ChatGPT" foi utilizado para desenvolver o roteiro e aprimorar a narrativa do podcast. "ElevenLabs" ajudou a criar uma voz sintética envolvente para a narração, enquanto o "Descript" foi essencial para a edição final, garantindo um fluxo suave e profissional.
 
 ## 🚀 Resultados
-O episódio é uma introdução acessível e estimulante ao campo das IAs Generativas, ideal para quem busca uma compreensão rápida do assunto.
+Conheça a revolução da inteligência artificial que aprende, se adapta e evolui continuamente. Com aprendizado contínuo, autoaperfeiçoamento e adaptação a novos contextos
 
 [LINK PARA O PODCAST AQUI]()
 
